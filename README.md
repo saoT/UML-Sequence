@@ -10,3 +10,10 @@ Dans le cadre de notre application nous avons deux acteurs et l'application elle
 + Les ordonner dans le temps.
 
 ![diagramme de séquence](https://raw.githubusercontent.com/simplonco/UML-Sequence/master/sequences.jpg)
+
+##Les outils
+Pour faire un diagramme de séquence avec StarUML c'est très simple :
+
+Step 1 : Créer un model de séquence.
+
+![Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/starUML-create.png)
