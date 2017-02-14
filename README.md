@@ -9,4 +9,4 @@ Dans le cadre de notre application nous avons deux acteurs et l'application elle
 + Utiliser le [use-case](https://github.com/simplonco/UML-Use-Case) pour voir quelles actions sont faites.
 + Les ordonner dans le temps.
 
-![diagramme de séquence](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/sequences.jpg)
+![diagramme de séquence](https://raw.githubusercontent.com/simplonco/UML-Sequence/master/sequences.jpg)
