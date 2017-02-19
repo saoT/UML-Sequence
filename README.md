@@ -5,7 +5,7 @@ Son but est de séquencer dans le temps les différentes actions et allers-retou
 
 Dans le cadre de notre application nous avons deux acteurs et l'application elle-même.
 
-+ On va donc créer les 3 branches (aussi appelées _lifeline_ ) nécessaires pour décrire les différentes intéractions dans le temps.
++ On va donc créer les 3 branches (aussi appelées _lifelines_ ) nécessaires pour décrire les différentes intéractions dans le temps.
 + Utiliser le [use-case](https://github.com/simplonco/UML-Use-Case) pour voir quelles actions sont faites.
 + Les ordonner dans le temps.
 
