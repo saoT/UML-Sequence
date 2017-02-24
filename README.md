@@ -1,14 +1,18 @@
+<img src="readme/img/simplon.jpg" width="400">
+
+----------------------
+
 # Diagramme de Séquence
 
 Ce chapitre s'inscrit dans le module diagramme [Diagramme UML](https://github.com/simplonco/Diagrammes-UML).
 
 1. [ ] [Diagramme Use-Case](https://github.com/simplonco/UML-Use-Case)
 	
-2. [x] [Diagramme de séquence](https://github.com/simplonco/UML-Sequence)
+2. [x] [Diagramme de Séquence](https://github.com/simplonco/UML-Sequence)
 	
-3. [ ] [Diagramme d'intéraction](https://github.com/simplonco/UML-Interaction)
+3. [ ] [Diagramme d'Intéraction](https://github.com/simplonco/UML-Interaction)
 	
-4. [ ] [Diagramme de classe](https://github.com/simplonco/UML-Class)
+4. [ ] [Diagramme de Classe](https://github.com/simplonco/UML-Class)
 
 Vous pouvez trouver ce module dans les parcours suivants :
 
@@ -26,11 +30,11 @@ Dans le cadre de notre application nous avons deux acteurs et l'application elle
 + Utiliser le [use-case](https://github.com/simplonco/UML-Use-Case) pour voir quelles actions sont faites.
 + Les ordonner dans le temps.
 
-![diagramme de séquence](https://raw.githubusercontent.com/simplonco/UML-Sequence/master/sequences.jpg)
+![diagramme de séquence](readme/img/sequences.jpg)
 
 ##Les outils
 Pour faire un diagramme de séquence avec StarUML c'est très simple :
 
 Step 1 : Créer un model de séquence.
 
-![Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/starUML-create.png)
+![Diagramme de use-case](readme/img/starUML-create.png)
